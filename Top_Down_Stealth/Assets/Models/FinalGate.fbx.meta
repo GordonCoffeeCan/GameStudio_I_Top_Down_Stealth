@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 17ec3a2f684fff44cbd395d49bb6ef51
+timeCreated: 1480814896
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FinalGate_Inside
+    100004: FinalGate_Left
+    100006: FinalGate_Right
+    100008: FinalIcon_Left
+    100010: FinalIcon_Right
+    100012: Icon1
+    100014: Icon2
+    100016: Icon3
+    100018: Icon4
+    400000: //RootNode
+    400002: FinalGate_Inside
+    400004: FinalGate_Left
+    400006: FinalGate_Right
+    400008: FinalIcon_Left
+    400010: FinalIcon_Right
+    400012: Icon1
+    400014: Icon2
+    400016: Icon3
+    400018: Icon4
+    2300000: FinalGate_Inside
+    2300002: FinalGate_Left
+    2300004: FinalGate_Right
+    2300006: FinalIcon_Left
+    2300008: FinalIcon_Right
+    2300010: Icon1
+    2300012: Icon2
+    2300014: Icon3
+    2300016: Icon4
+    3300000: FinalGate_Inside
+    3300002: FinalGate_Left
+    3300004: FinalGate_Right
+    3300006: FinalIcon_Left
+    3300008: FinalIcon_Right
+    3300010: Icon1
+    3300012: Icon2
+    3300014: Icon3
+    3300016: Icon4
+    4300000: FinalGate_Right
+    4300002: FinalGate_Left
+    4300004: FinalGate_Inside
+    4300006: FinalIcon_Right
+    4300008: Icon1
+    4300010: Icon2
+    4300012: FinalIcon_Left
+    4300014: Icon4
+    4300016: Icon3
+    7400000: FinalGateOpen
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FinalGateOpen
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FinalGate_Inside
+        weight: 1
+      - path: FinalGate_Left
+        weight: 1
+      - path: FinalGate_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 15
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
