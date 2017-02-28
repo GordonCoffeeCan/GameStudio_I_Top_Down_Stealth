@@ -14,7 +14,9 @@ public class CameraBehavior : MonoBehaviour {
         _trans = this.transform;
         _target = GameObject.Find("CameraCenter").transform;
         _camHeight = _trans.position.y;
-	}
+
+        Cursor.visible = false;
+    }
 	
 	// Update is called once per frame
 	void Update () {
